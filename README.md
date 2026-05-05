@@ -1,4 +1,3 @@
-```markdown
 # Hi, I'm 1wc10086 👋
 
 > I like doing interesting things. I focus on Android development.
@@ -38,8 +37,3 @@
 
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-
-```
-
-Clean and done. Let me know if you'd like any tweaks!
